@@ -1,0 +1,102 @@
+<DOCTYPE.html>
+
+    <body>
+        <meta charset="utf-8">
+        <title>.Luiz Felipe.</title>
+
+
+        <style> 
+            
+        body{
+             background-image:url(https://cdn.pixabay.com/photo/2013/07/13/12/08/background-159244_960_720.png) ;
+
+        }
+
+
+
+        h1{
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            text-align: center;
+            color: rgb(233, 10, 10);
+            font-size: 43px;
+
+        }
+
+        h2{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: left;
+            color: rgb(23, 3, 138);
+            font-size: 32px;
+            text-decoration-line: none;
+
+        }
+
+        p{
+           font-family: Arial, Helvetica, sans-serif;
+           text-align: justify;
+           font-size: 29px;
+           border: 2px solid rgb(255, 45, 7);
+           opacity: unset;
+           color: rgb(253, 253, 255);
+
+        }
+
+
+    </style>
+
+    
+       <h1>Luiz Felipe</h1>
+
+       <h2>Significado</h2>
+
+       <p>"guerreiro glorioso que é amigo dos cavalos". Luiz Felipe é um nome masculino composto, formado pelos nomes Luiz, de origem germânica, e Felipe, de origem grega."</p>
+       
+    </body>
+
+    <head>
+   <style>
+
+
+     h2{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: left;
+        color: rgb(10, 10, 12);
+        font-size: 32px;
+        text-decoration-line: none;
+
+     }
+
+
+     p{
+        color: rgb(253, 253, 255);
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 29px;
+
+     }
+
+     img{
+         width:220px;
+         height:220px;
+
+     }
+
+     strong{
+            font-size: 27px;
+            color:black
+
+     }
+
+    </style>
+
+    </head>
+
+    <h2>Um Pouco Sobre Mim</h2>
+
+    <p>Oi, eu me chamo Luiz Felipe e tenho 15 anos. Penso em trabalhar em alguma área da informática. Tento sempre me esforçar ao máximo para conseguir carregar cada vez mais conhecimento, pois sei que o caminho que estou seguindo abre vários outros. Cabe à mim estar apto para resolver várias circunstâncias.</p>
+
+   <p>Moro no estado de Minas Gerais e vivo com meus pais e irmã. Gosto bastante de praticar exercícios físicos, passar um tempo com amigos e parentes, de jogos e conhecer novos lugares.</p> 
+   
+   <img src="http://4.bp.blogspot.com/-UGi0XfdZXcM/UG4IjeDejNI/AAAAAAAAD5A/XmANOYrLl90/s1600/Luiz+Felipe+3.JPG">
+
+          
+        <strong>Esse foi a minha primeira publicação no git hub!</strong>
